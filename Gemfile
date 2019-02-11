@@ -17,6 +17,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'active_model_serializers', '~> 0.10.9'
 
+gem 'jwt', '~> 2.1.0'
+
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.12'
 
