@@ -1,0 +1,29 @@
+@font-face {
+    font-family: marvel1;
+    src: url("./font/marvel1.woff2");
+
+}
+
+@font-face {
+    font-family: marvel2;
+    src: url("./font/marvel2.woff2");
+
+}
+@font-face {
+    font-family: marvel3;
+    src: url("./font/marvel3.woff2");
+
+}
+@font-face {
+    font-family: marvel4;
+    src: url("./font/marvel4.woff2");
+
+}
+@font-face {
+    font-family: chainsawz;
+    src: url("./font/chainsawz.otf")
+}
+
+h1 {
+    font-family: marvel4;
+}

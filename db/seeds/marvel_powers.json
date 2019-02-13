@@ -1,0 +1,1542 @@
+[
+  {
+    "id": 1,
+    "name": "Amadeus Cho",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 2,
+    "intelligence": 6,
+    "speed": 2
+  },
+  {
+    "id": 2,
+    "name": "Annhilus",
+    "energy": 4,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 3,
+    "name": "Ant-Man",
+    "energy": 3,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 4,
+    "name": "Arachne",
+    "energy": 4,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 5,
+    "name": "Ares",
+    "energy": 1,
+    "strength": 5,
+    "durability": 6,
+    "fighting": 7,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 6,
+    "name": "Arkon",
+    "energy": 3,
+    "strength": 4,
+    "durability": 5,
+    "fighting": 6,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 7,
+    "name": "Attuma",
+    "energy": 3,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 5
+  },
+  {
+    "id": 8,
+    "name": "Baron Zemo",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 5,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 9,
+    "name": "Beast",
+    "energy": 1,
+    "strength": 4,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 5,
+    "speed": 3
+  },
+  {
+    "id": 10,
+    "name": "Big Bertha",
+    "energy": 4,
+    "strength": 5,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 11,
+    "name": "Black Bolt",
+    "energy": 5,
+    "strength": 5,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 12,
+    "name": "Black Knight",
+    "energy": 4,
+    "strength": 2,
+    "durability": 5,
+    "fighting": 5,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 13,
+    "name": "Black Panther",
+    "energy": 3,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 5,
+    "speed": 2
+  },
+  {
+    "id": 14,
+    "name": "Black Widow",
+    "energy": 3,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 15,
+    "name": "Blastaar",
+    "energy": 4,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 16,
+    "name": "Bloodwraith",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 17,
+    "name": "Bullseye",
+    "energy": 1,
+    "strength": 2,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 18,
+    "name": "Captain America",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 19,
+    "name": "Captain Marvel",
+    "energy": 5,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 7
+  },
+  {
+    "id": 20,
+    "name": "Charlie-27",
+    "energy": 1,
+    "strength": 5,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 21,
+    "name": "Cloud 9",
+    "energy": 4,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 22,
+    "name": "Collector",
+    "energy": 4,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 23,
+    "name": "Count Nefaria",
+    "energy": 6,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 5
+  },
+  {
+    "id": 24,
+    "name": "Crimson Dynamo",
+    "energy": 3,
+    "strength": 5,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 25,
+    "name": "Crystal",
+    "energy": 4,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 26,
+    "name": "Daken",
+    "energy": 1,
+    "strength": 3,
+    "durability": 4,
+    "fighting": 7,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 27,
+    "name": "Daredevil",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 28,
+    "name": "Deathbird",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 29,
+    "name": "Demolition Man",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 1,
+    "speed": 2
+  },
+  {
+    "id": 30,
+    "name": "Diamondback",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 31,
+    "name": "Doctor Doom",
+    "energy": 6,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 6,
+    "speed": 5
+  },
+  {
+    "id": 32,
+    "name": "Doctor Druid",
+    "energy": 4,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 33,
+    "name": "Doctor Strange",
+    "energy": 6,
+    "strength": 2,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 34,
+    "name": "Doctor Voodoo",
+    "energy": 7,
+    "strength": 2,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 5,
+    "speed": 3
+  },
+  {
+    "id": 35,
+    "name": "Doorman",
+    "energy": 4,
+    "strength": 2,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 4
+  },
+  {
+    "id": 36,
+    "name": "Dormammu",
+    "energy": 7,
+    "strength": 7,
+    "durability": 7,
+    "fighting": 4,
+    "intelligence": 6,
+    "speed": 7
+  },
+  {
+    "id": 37,
+    "name": "Dragon Man",
+    "energy": 4,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 1,
+    "speed": 3
+  },
+  {
+    "id": 38,
+    "name": "Echo",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 6,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 39,
+    "name": "Electro",
+    "energy": 5,
+    "strength": 2,
+    "durability": 3,
+    "fighting": 2,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 40,
+    "name": "Elektra",
+    "energy": 1,
+    "strength": 2,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 41,
+    "name": "Enchantress",
+    "energy": 5,
+    "strength": 3,
+    "durability": 5,
+    "fighting": 5,
+    "intelligence": 6,
+    "speed": 4
+  },
+  {
+    "id": 42,
+    "name": "Executioner",
+    "energy": 5,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 6,
+    "intelligence": 4,
+    "speed": 4
+  },
+  {
+    "id": 43,
+    "name": "Exodus",
+    "energy": 6,
+    "strength": 2,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 44,
+    "name": "Falcon",
+    "energy": 3,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 3,
+    "speed": 4
+  },
+  {
+    "id": 45,
+    "name": "Firebird",
+    "energy": 7,
+    "strength": 5,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 5,
+    "speed": 7
+  },
+  {
+    "id": 46,
+    "name": "Firelord",
+    "energy": 5,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 2,
+    "intelligence": 3,
+    "speed": 4
+  },
+  {
+    "id": 47,
+    "name": "Firestar",
+    "energy": 7,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 6
+  },
+  {
+    "id": 48,
+    "name": "Galactus",
+    "energy": 7,
+    "strength": 7,
+    "durability": 7,
+    "fighting": 7,
+    "intelligence": 7,
+    "speed": 7
+  },
+  {
+    "id": 49,
+    "name": "Grandmaster",
+    "energy": 6,
+    "strength": 4,
+    "durability": 7,
+    "fighting": 2,
+    "intelligence": 6,
+    "speed": 7
+  },
+  {
+    "id": 50,
+    "name": "Graviton",
+    "energy": 7,
+    "strength": 2,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 6
+  },
+  {
+    "id": 51,
+    "name": "Gravity",
+    "energy": 3,
+    "strength": 3,
+    "durability": 2,
+    "fighting": 2,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 52,
+    "name": "Grey Gargoyle",
+    "energy": 1,
+    "strength": 4,
+    "durability": 5,
+    "fighting": 2,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 53,
+    "name": "Grim Reaper",
+    "energy": 6,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 54,
+    "name": "Hardball",
+    "energy": 5,
+    "strength": 3,
+    "durability": 2,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 55,
+    "name": "Hawkeye",
+    "energy": 2,
+    "strength": 3,
+    "durability": 2,
+    "fighting": 7,
+    "intelligence": 5,
+    "speed": 3
+  },
+  {
+    "id": 56,
+    "name": "Hercules",
+    "energy": 1,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 57,
+    "name": "High Evolutionary",
+    "energy": 6,
+    "strength": 2,
+    "durability": 7,
+    "fighting": 2,
+    "intelligence": 6,
+    "speed": 2
+  },
+  {
+    "id": 58,
+    "name": "The Hood",
+    "energy": 4,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 59,
+    "name": "Hulk",
+    "energy": 1,
+    "strength": 7,
+    "durability": 7,
+    "fighting": 4,
+    "intelligence": 6,
+    "speed": 3
+  },
+  {
+    "id": 60,
+    "name": "Hulkling",
+    "energy": 2,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 61,
+    "name": "Invisible Woman",
+    "energy": 5,
+    "strength": 2,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 62,
+    "name": "Iron Fist",
+    "energy": 3,
+    "strength": 2,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 63,
+    "name": "Iron Lad",
+    "energy": 6,
+    "strength": 4,
+    "durability": 5,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 64,
+    "name": "Iron Man",
+    "energy": 6,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 6,
+    "speed": 5
+  },
+  {
+    "id": 65,
+    "name": "Iron Patriot",
+    "energy": 6,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 6,
+    "speed": 5
+  },
+  {
+    "id": 66,
+    "name": "Jack of Hearts",
+    "energy": 5,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 7
+  },
+  {
+    "id": 67,
+    "name": "Jessica Jones",
+    "energy": 1,
+    "strength": 4,
+    "durability": 4,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 68,
+    "name": "Jocasta",
+    "energy": 3,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 69,
+    "name": "Justice",
+    "energy": 5,
+    "strength": 2,
+    "durability": 5,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 70,
+    "name": "Kang",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 71,
+    "name": "Ka-Zar",
+    "energy": 1,
+    "strength": 3,
+    "durability": 2,
+    "fighting": 5,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 72,
+    "name": "Klaw",
+    "energy": 5,
+    "strength": 4,
+    "durability": 7,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 4
+  },
+  {
+    "id": 73,
+    "name": "Korvac",
+    "energy": 7,
+    "strength": 7,
+    "durability": 7,
+    "fighting": 2,
+    "intelligence": 7,
+    "speed": 7
+  },
+  {
+    "id": 74,
+    "name": "Lionheart",
+    "energy": 4,
+    "strength": 6,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 4
+  },
+  {
+    "id": 75,
+    "name": "Living Lightning",
+    "energy": 4,
+    "strength": 2,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 6
+  },
+  {
+    "id": 76,
+    "name": "Lockjaw",
+    "energy": 5,
+    "strength": 5,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 5
+  },
+  {
+    "id": 77,
+    "name": "Loki",
+    "energy": 6,
+    "strength": 5,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 5,
+    "speed": 3
+  },
+  {
+    "id": 78,
+    "name": "Luke Cage",
+    "energy": 1,
+    "strength": 4,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 79,
+    "name": "Machine Man",
+    "energy": 6,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 80,
+    "name": "Madame Masque",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 81,
+    "name": "Mad Thinker",
+    "energy": 5,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 1,
+    "intelligence": 5,
+    "speed": 2
+  },
+  {
+    "id": 82,
+    "name": "Magneto",
+    "energy": 5,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 5,
+    "speed": 5
+  },
+  {
+    "id": 83,
+    "name": "Man-Ape",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 84,
+    "name": "Mantis",
+    "energy": 3,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 85,
+    "name": "Maria Hill",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 1,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 86,
+    "name": "Martinex",
+    "energy": 5,
+    "strength": 3,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 87,
+    "name": "Marvel Boy",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 88,
+    "name": "Maximus",
+    "energy": 5,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 6,
+    "speed": 3
+  },
+  {
+    "id": 89,
+    "name": "Medusa",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 90,
+    "name": "Mephisto",
+    "energy": 7,
+    "strength": 7,
+    "durability": 7,
+    "fighting": 2,
+    "intelligence": 7,
+    "speed": 7
+  },
+  {
+    "id": 91,
+    "name": "Mockingbird",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 92,
+    "name": "Molecule Man",
+    "energy": 7,
+    "strength": 1,
+    "durability": 2,
+    "fighting": 1,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 93,
+    "name": "Moon Knight",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 94,
+    "name": "Moondragon",
+    "energy": 5,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 95,
+    "name": "Moonstone",
+    "energy": 4,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 96,
+    "name": "Mr. Fantastic",
+    "energy": 1,
+    "strength": 2,
+    "durability": 5,
+    "fighting": 3,
+    "intelligence": 6,
+    "speed": 2
+  },
+  {
+    "id": 97,
+    "name": "Mr. Hyde",
+    "energy": 1,
+    "strength": 6,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 5,
+    "speed": 2
+  },
+  {
+    "id": 98,
+    "name": "Mr. Immortal",
+    "energy": 1,
+    "strength": 2,
+    "durability": 7,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 99,
+    "name": "MVP",
+    "energy": 1,
+    "strength": 3,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 100,
+    "name": "Nebula",
+    "energy": 6,
+    "strength": 5,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 101,
+    "name": "Nick Fury",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 6,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 102,
+    "name": "Onslaught",
+    "energy": 5,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 6,
+    "intelligence": 6,
+    "speed": 5
+  },
+  {
+    "id": 103,
+    "name": "Patriot",
+    "energy": 1,
+    "strength": 3,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 104,
+    "name": "Photon",
+    "energy": 6,
+    "strength": 2,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 6
+  },
+  {
+    "id": 105,
+    "name": "Quasar",
+    "energy": 6,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 7
+  },
+  {
+    "id": 106,
+    "name": "Quicksilver",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 5
+  },
+  {
+    "id": 107,
+    "name": "Radioactive Man",
+    "energy": 6,
+    "strength": 4,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 5,
+    "speed": 2
+  },
+  {
+    "id": 108,
+    "name": "Rage",
+    "energy": 1,
+    "strength": 6,
+    "durability": 5,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 4
+  },
+  {
+    "id": 109,
+    "name": "Red Guardian",
+    "energy": 2,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 5,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 110,
+    "name": "Red Skull",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 6,
+    "intelligence": 5,
+    "speed": 2
+  },
+  {
+    "id": 111,
+    "name": "Red Wolf",
+    "energy": 1,
+    "strength": 4,
+    "durability": 2,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 112,
+    "name": "Ronan",
+    "energy": 6,
+    "strength": 5,
+    "durability": 6,
+    "fighting": 6,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 113,
+    "name": "Ronin",
+    "energy": 1,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 114,
+    "name": "Sandman",
+    "energy": 1,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 115,
+    "name": "Sauron",
+    "energy": 4,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 116,
+    "name": "Scarlet Witch",
+    "energy": 6,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 117,
+    "name": "Sentry",
+    "energy": 3,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 5,
+    "speed": 5
+  },
+  {
+    "id": 118,
+    "name": "Sersi",
+    "energy": 7,
+    "strength": 4,
+    "durability": 7,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 5
+  },
+  {
+    "id": 119,
+    "name": "She-Hulk",
+    "energy": 1,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 120,
+    "name": "Shocker",
+    "energy": 5,
+    "strength": 2,
+    "durability": 5,
+    "fighting": 2,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 121,
+    "name": "Silver Samurai",
+    "energy": 2,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 5,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 122,
+    "name": "Silver Surfer",
+    "energy": 7,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 3,
+    "speed": 7
+  },
+  {
+    "id": 123,
+    "name": "Silverclaw",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 124,
+    "name": "Songbird",
+    "energy": 4,
+    "strength": 2,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 125,
+    "name": "speed",
+    "energy": 3,
+    "strength": 3,
+    "durability": 4,
+    "fighting": 2,
+    "intelligence": 2,
+    "speed": 4
+  },
+  {
+    "id": 126,
+    "name": "Spider-Man",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 127,
+    "name": "Spider-Woman",
+    "energy": 5,
+    "strength": 5,
+    "durability": 4,
+    "fighting": 4,
+    "intelligence": 3,
+    "speed": 3
+  },
+  {
+    "id": 128,
+    "name": "Squirrel Girl",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 129,
+    "name": "Starfox",
+    "energy": 3,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 5
+  },
+  {
+    "id": 130,
+    "name": "Starhawk",
+    "energy": 5,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 7
+  },
+  {
+    "id": 131,
+    "name": "Stature",
+    "energy": 1,
+    "strength": 5,
+    "durability": 4,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 132,
+    "name": "Stingray",
+    "energy": 4,
+    "strength": 4,
+    "durability": 4,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 133,
+    "name": "Stranger",
+    "energy": 7,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 7,
+    "speed": 7
+  },
+  {
+    "id": 134,
+    "name": "Sub-Mariner",
+    "energy": 2,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 135,
+    "name": "Supreme intelligence",
+    "energy": 6,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 6,
+    "intelligence": 6,
+    "speed": 2
+  },
+  {
+    "id": 136,
+    "name": "Swordsman",
+    "energy": 6,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 6,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 137,
+    "name": "Taskmaster",
+    "energy": 1,
+    "strength": 3,
+    "durability": 2,
+    "fighting": 7,
+    "intelligence": 4,
+    "speed": 2
+  },
+  {
+    "id": 138,
+    "name": "Thanos",
+    "energy": 6,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 6,
+    "speed": 3
+  },
+  {
+    "id": 139,
+    "name": "Thor",
+    "energy": 6,
+    "strength": 7,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 4
+  },
+  {
+    "id": 140,
+    "name": "Thor Girl",
+    "energy": 6,
+    "strength": 5,
+    "durability": 4,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 141,
+    "name": "3-D Man",
+    "energy": 1,
+    "strength": 4,
+    "durability": 3,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 142,
+    "name": "Thundra",
+    "energy": 1,
+    "strength": 5,
+    "durability": 6,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 143,
+    "name": "Tiger Shark",
+    "energy": 1,
+    "strength": 5,
+    "durability": 5,
+    "fighting": 2,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 144,
+    "name": "Titania",
+    "energy": 1,
+    "strength": 6,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 145,
+    "name": "Trauma",
+    "energy": 5,
+    "strength": 5,
+    "durability": 5,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 4
+  },
+  {
+    "id": 146,
+    "name": "Ultron",
+    "energy": 6,
+    "strength": 6,
+    "durability": 7,
+    "fighting": 4,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 147,
+    "name": "Valkyrie",
+    "energy": 1,
+    "strength": 5,
+    "durability": 4,
+    "fighting": 5,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 148,
+    "name": "Venom",
+    "energy": 1,
+    "strength": 5,
+    "durability": 5,
+    "fighting": 2,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 149,
+    "name": "Vision",
+    "energy": 6,
+    "strength": 5,
+    "durability": 6,
+    "fighting": 3,
+    "intelligence": 4,
+    "speed": 3
+  },
+  {
+    "id": 150,
+    "name": "Adam Warlock",
+    "energy": 7,
+    "strength": 6,
+    "durability": 7,
+    "fighting": 6,
+    "intelligence": 5,
+    "speed": 6
+  },
+  {
+    "id": 151,
+    "name": "Wasp",
+    "energy": 4,
+    "strength": 2,
+    "durability": 2,
+    "fighting": 3,
+    "intelligence": 2,
+    "speed": 3
+  },
+  {
+    "id": 152,
+    "name": "Wiccan",
+    "energy": 5,
+    "strength": 2,
+    "durability": 4,
+    "fighting": 3,
+    "intelligence": 3,
+    "speed": 2
+  },
+  {
+    "id": 153,
+    "name": "Wolverine",
+    "energy": 2,
+    "strength": 4,
+    "durability": 4,
+    "fighting": 7,
+    "intelligence": 2,
+    "speed": 2
+  },
+  {
+    "id": 154,
+    "name": "Wonder Man",
+    "energy": 1,
+    "strength": 6,
+    "durability": 6,
+    "fighting": 2,
+    "intelligence": 4,
+    "speed": 3
+  }
+]
